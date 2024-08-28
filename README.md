@@ -9,13 +9,10 @@ This is the place where I attempt to create stuff as an aspiring developer while
 - 💁‍♀️  Pronouns: She/Her 
 - ⚡  Fun fact: Every fall I revisit my comfort video game called Night In The Woods
 
-<br>
-
 ### ✏️ Latest Blog Posts
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=seo-yun-choi)](https://velog.io/@seo-yun-choi)
 
-<br>
 
 ### 📲 Skills 
 
