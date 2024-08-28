@@ -5,8 +5,8 @@ This is the place where I attempt to create stuff as an aspiring developer while
 - 🔭  I’m currently working on a fun little **blogging website project** 
 - 🌱  I’m currently learning **Java** and **Python**
 - 💬  Idk much about code (yet) but I'm fluent in Korean and English -- feel free to reach out to me!
-- 📫  seoyunchoi@hufs.ac.kr
-- 💁‍♀️  Pronouns: She/Her 
+- 📫  Email: seoyunchoi@hufs.ac.kr
+- 💁‍♀️  Pronouns: she/her 
 - ⚡  Fun fact: Every fall I revisit my comfort video game called Night In The Woods
 
 <div align="center">
