@@ -11,6 +11,12 @@ This is the place where I attempt to create stuff as an aspiring developer while
 
 <br>
 
+### ✏️ Latest Blog Posts
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=seo-yun-choi)](https://velog.io/@seo-yun-choi)
+
+<br>
+
 ### 📲 Skills 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
@@ -21,10 +27,3 @@ This is the place where I attempt to create stuff as an aspiring developer while
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-
-<br>
-
-### ✏️ Latest Blog Posts
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=seo-yun-choi)](https://velog.io/@seo-yun-choi)
