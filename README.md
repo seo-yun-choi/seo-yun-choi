@@ -1,6 +1,6 @@
 ### 🤖 Hi there! 
 
-This is the place where I attempt to create stuff as an aspiring developer
+This is the place where I attempt to create stuff as an aspiring developer 😹
 
 - 🌱  I’m currently learning **Java** and **Python**
 - 💬  Idk much about code (yet) but I'm fluent in Korean and English -- feel free to reach out to me!
